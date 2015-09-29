@@ -1,0 +1,2 @@
+role-service:
+    url: http://localhost:9000/
